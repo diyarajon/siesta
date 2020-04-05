@@ -26,6 +26,7 @@ body{
     border: 15px;
     width: 500px;
     margin: auto;
+    float: left;
     background-color: darkgoldenrod;
 }
 
