@@ -24,9 +24,9 @@ body{
 .box{
     padding: 15px;
     width: 30%;
-    margin: auto;
     float: left;
     text-align: center;
+    margin: auto;
     background-color: darkgoldenrod;
 }
 
