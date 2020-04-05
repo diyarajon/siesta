@@ -12,7 +12,7 @@ body{
 
 .heading{
     background-color: aqua;
-    color: rgb(255, 137, 133);
+    color: rgba(0, 48, 32, 0.74);
 }
 
 .options a{
@@ -26,6 +26,7 @@ body{
     border: 15px;
     width: 33.3%;
     margin: auto;
+    float: left;
     background-color: darkgoldenrod;
 }
 
