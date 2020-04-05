@@ -20,10 +20,19 @@ body{
     color: darkmagenta;
 }
 
+
 .box{
     background-color: darkgoldenrod;
     padding: 15px;
     border: 15px;
     border-color: darkgreen;
     float: left;
+}
+
+.box:hover{
+    background-color: darkolivegreen;
+}
+
+.box:active{
+    background-color: darkred;
 }
