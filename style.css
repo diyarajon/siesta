@@ -10,7 +10,13 @@ body{
 
 
 
-.container{
+.heading{
     background-color: aqua;
     color: blue;
+}
+
+
+.box{
+    background-color: darkgoldenrod;
+    padding: 15px;
 }
