@@ -19,4 +19,6 @@ body{
 .box{
     background-color: darkgoldenrod;
     padding: 15px;
+    border-color: darkgreen;
+    float: left;
 }
