@@ -20,6 +20,7 @@ body{
 .options a{
     text-decoration: none;
     color: rgb(255, 255, 255);
+    display:flex;
 }
 
 
@@ -28,11 +29,8 @@ body{
     width: 30%;
     text-align: center;
     padding: 20px;
-    margin: auto;
-    float: left;
+    margin: 25px;
     background-color: darkgoldenrod;
-    border: 20px;
-    border-color: midnightblue;
 }
 
 .box:hover{
