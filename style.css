@@ -41,6 +41,7 @@ body{
     background-color: mistyrose;
     align-items: center;
     justify-content: center;
+    border:1px,solid, coral;
 }
 
 .box :hover{
