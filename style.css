@@ -38,7 +38,8 @@ body{
     flex-grow: 1;
     height: 0%;
     width: 30%;
-    margin: 10px 10px 60px 10px;
+    margin: 10px 10px 10px 10px;
+    margin: auto;
     padding: 30px;
     background-color: rgb(60, 156, 108);
   }
@@ -50,7 +51,7 @@ body{
   
   .box a:hover {
     transition: 0.4s;
-    margin-left: 10px;
+    margin-top: 10px;
   }
   
 
