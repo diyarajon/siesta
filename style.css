@@ -37,7 +37,7 @@ body{
     flex-basis: 30%;
     height: 300px;
     text-align: center;
-    margin: 25px;
+    margin: 25px, 0px, 25px, 0px;
     background-color: mistyrose;
     align-items: center;
     justify-content: center;
