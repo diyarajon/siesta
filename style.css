@@ -36,9 +36,8 @@ body{
 
 .box {
     flex-grow: 1;
-    font-size: 24px;
-    height: 280px;
-    width: 300px;
+    height: 30%;
+    width: 30%;
     margin: 10px 10px 60px 10px;
     padding: 30px;
     background-color: rgb(60, 156, 108);
