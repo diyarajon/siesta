@@ -12,7 +12,7 @@ body{
 
 .heading{
     background-color: rgb(135, 55, 167);
-    color: rgba(0, 48, 32, 0.74);
+    color: rgba(0, 255, 170, 0.74);
     text-align: center;
 }
 
@@ -33,27 +33,6 @@ body{
     border: 20px;
     border-color: midnightblue;
 }
-
-.box {
-    flex-grow: 1;
-    height: 0%;
-    width: 100px;
-    margin-top: 30px;
-    margin: auto;
-    padding: 30px;
-    background-color: rgb(212, 34, 132);
-  }
-  
-  .box a {
-    color: white;
-    text-decoration: none;
-  }
-  
-  .box a:hover {
-    transition: 0.4s;
-    margin-top: 10px;
-  }
-  
 
 .box:hover{
     background-color: darkolivegreen;
