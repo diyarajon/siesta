@@ -42,12 +42,12 @@ body{
     border:3px solid coral;
 }
 
-.box :hover{
+.box:hover{
     background-color: seagreen;
     box-shadow: 2, blue;
 }
 
-.box :active{
+.box:active{
     background-color: darkred;
     
 }
