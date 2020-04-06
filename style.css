@@ -39,7 +39,7 @@ body{
     text-align: center;
     margin: 25px;
     background-color: mistyrose;
-    vertical-align: center;
+    align-items: center;
 }
 
 .box :hover{
