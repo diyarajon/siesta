@@ -26,7 +26,8 @@ body{
     padding: 15px;
     width: 33.33%;
     text-align: center;
-    float: inline-start;
+    float: left;
+    margin: auto;
     background-color: darkgoldenrod;
     border: 15px;
     border-color: midnightblue;
