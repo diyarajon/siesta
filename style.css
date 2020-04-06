@@ -40,6 +40,7 @@ body{
     margin: 25px;
     background-color: mistyrose;
     align-items: center;
+    justify-content: center;
 }
 
 .box :hover{
