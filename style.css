@@ -1,5 +1,5 @@
 @media(min-width:768px){
-    
+
 }
 body{
     font-family: 'Muli', sans-serif;
@@ -35,11 +35,11 @@ body{
     text-align: center;
     padding: 20px;
     margin: 25px;
-    background-color: darkgoldenrod;
+    background-color: mistyrose;
 }
 
 .box:hover{
-    background-color: darkolivegreen;
+    background-color: seagreen;
     transition: ease;
 }
 
