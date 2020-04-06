@@ -34,7 +34,7 @@ body{
 
 .box{
     flex-basis: 30%;
-    height: 120px;
+    height: 500px;
     text-align: center;
     margin: 25px;
     background-color: mistyrose;
