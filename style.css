@@ -35,6 +35,7 @@ body{
 
 .box:hover{
     background-color: darkolivegreen;
+    transition: ease;
 }
 
 .box:active{
