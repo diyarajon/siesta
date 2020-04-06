@@ -36,12 +36,12 @@ body{
 
 .box {
     flex-grow: 1;
-    height: 30%;
+    height: 0%;
     width: 30%;
     margin: 10px 10px 60px 10px;
     padding: 30px;
     background-color: rgb(60, 156, 108);
-    transition: 0.9s;
+    border-radius: 10px;
   }
   
   .box a {
