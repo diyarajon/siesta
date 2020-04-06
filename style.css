@@ -14,24 +14,7 @@ body{
     background-color: rgb(135, 55, 167);
     color: rgba(0, 255, 170, 0.74);
     text-align: center;
-}
-
-.heading h1{
-    position: absolute;
-    width: 675px;
-    height: 125px;
-    left: calc(50% - 675px/2 + 11.5px);
-    top: calc(50% - 125px/2 - 415.5px);
-    font-style: normal;
-    font-weight: normal;
-    font-size: 100px;
-    line-height: 125px;
-    /* identical to box height */
-
-    text-align: center;
-
-    color: #FDC537;
-
+    font-family: 'Muli', sans-serif;
 }
 
 .options a{
