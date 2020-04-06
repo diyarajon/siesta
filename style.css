@@ -39,15 +39,10 @@ body{
     text-align: center;
     margin: 25px;
     background-color: mistyrose;
-    border:3px solid coral;
+    border:1px solid rgb(0, 0, 0);
 }
 
 .box:hover{
     background-color: seagreen;
-    box-shadow: 2, blue;
 }
 
-.box:active{
-    background-color: darkred;
-    
-}
