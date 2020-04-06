@@ -23,7 +23,7 @@ body{
     left: calc(50% - 675px/2 + 11.5px);
     top: calc(50% - 125px/2 - 415.5px);
 
-    font-family: Lobster;
+    font-family: 'Lobster', cursive;
     font-style: normal;
     font-weight: normal;
     font-size: 100px;
