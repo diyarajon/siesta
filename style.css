@@ -37,11 +37,11 @@ body{
 .box {
     flex-grow: 1;
     height: 0%;
-    width: 30%;
+    width: 100px;
     margin: 10px 10px 10px 10px;
     margin: auto;
     padding: 30px;
-    background-color: rgb(60, 156, 108);
+    background-color: rgb(212, 34, 132);
   }
   
   .box a {
