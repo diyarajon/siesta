@@ -13,6 +13,7 @@ body{
 .heading{
     background-color: aqua;
     color: rgba(0, 48, 32, 0.74);
+    text-align: center;
 }
 
 .options a{
@@ -23,11 +24,13 @@ body{
 
 .box{
     padding: 15px;
-    width: 30%;
+    width: 33.33%;
     line-height: 50%;
     text-align: center;
     margin: auto;
     background-color: darkgoldenrod;
+    border: 15px;
+    border-color: midnightblue;
 }
 
 .box:hover{
