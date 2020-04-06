@@ -16,6 +16,26 @@ body{
     text-align: center;
 }
 
+.heading h1{
+    position: absolute;
+    width: 675px;
+    height: 125px;
+    left: calc(50% - 675px/2 + 11.5px);
+    top: calc(50% - 125px/2 - 415.5px);
+
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 100px;
+    line-height: 125px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FDC537;
+
+}
+
 .options a{
     text-decoration: none;
     color: rgb(255, 255, 255);
@@ -23,7 +43,7 @@ body{
 
 
 .box{
-    float: left;
+    flex: 1;
     width: 30%;
     text-align: center;
     padding: 20px;
