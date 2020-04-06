@@ -25,8 +25,8 @@ body{
 .box{
     padding: 15px;
     width: 33.33%;
-    line-height: 50%;
     text-align: center;
+    float: inline-start;
     background-color: darkgoldenrod;
     border: 15px;
     border-color: midnightblue;
