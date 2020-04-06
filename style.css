@@ -28,14 +28,13 @@ body{
 
 .options a{
     text-decoration: none;
-    color: rgb(0, 109, 76);
+    color: rgb(163, 0, 8);
 }
 
 
 .box{
     flex-basis: 30%;
     text-align: center;
-    padding: 20px;
     margin: 25px;
     background-color: mistyrose;
 }
