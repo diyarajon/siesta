@@ -67,7 +67,7 @@ a{
 }
 
 .box:hover{
-    background-color: seagreen;
+    background-color: #ff8585;
     box-shadow: 10px;
 }
 
