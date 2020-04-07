@@ -63,9 +63,11 @@ a{
     margin: 5px;
     min-width: 300px;
     background-color: #ff6c6c;
+    border-radius: 10px;
 }
 
 .box:hover{
     background-color: seagreen;
+    box-shadow: 10px;
 }
 
