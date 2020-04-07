@@ -37,10 +37,12 @@ body{
     padding: 0px;
     margin: 0cm;
     font-size: 2.5em;
+    transform: translateY(100%);
 }
 
 .heading p{
     font-size: 1rem;
+    transform: translateY(200%);
 }
 
 .options a{
