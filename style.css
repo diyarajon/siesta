@@ -17,7 +17,7 @@ body{
     line-height: 1.5;
     padding:0;
     margin: 0;
-    background: #F38E8E;
+    background: #ff5959;
     vertical-align: center;
 }
 
@@ -26,8 +26,8 @@ body{
 .heading{
     padding:0;
     margin: 0;
-    background-color: rgb(113, 197, 148);
-    color: rgb(255, 255, 255);
+    background-color: #49beb7;
+    color:#085f63;
     text-align: center;
     font-family: 'Muli', sans-serif;
     height: 200px;
@@ -62,7 +62,7 @@ a{
     text-align: center;
     margin: 5px;
     min-width: 300px;
-    background-color: #f4f4f4;
+    background-color: #ff6c6c;
     border:1px solid rgb(0, 0, 0);
 }
 
