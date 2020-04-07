@@ -32,9 +32,15 @@ body{
     font-family: 'Muli', sans-serif;
 }
 
+.heading h1{
+    padding: 0px;
+    margin: 0cm;
+}
+
 .options a{
     text-decoration: none;
     color: rgb(163, 0, 8);
+    font-size: 40px;
 }
 
 
