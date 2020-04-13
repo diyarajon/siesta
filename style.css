@@ -17,7 +17,7 @@ body{
     line-height: 1.5;
     padding:0;
     margin: 0;
-    background: #ff5959;
+    background: #8B0D88;
     vertical-align: center;
 }
 
@@ -26,8 +26,8 @@ body{
 .heading{
     padding:0;
     margin: 0;
-    background-color: #49beb7;
-    color:#085f63;
+    background-color: #034ea2;
+    color:#303;
     text-align: center;
     font-family: 'Muli', sans-serif;
     height: 300px;
@@ -54,7 +54,7 @@ body{
 
 .options a{
     text-decoration: none;
-    color: rgb(163, 0, 8);
+    color: rgb(196, 39, 156);
     font-size: 2.5em;
 }
 
@@ -69,7 +69,7 @@ a{
     text-align: center;
     margin: 5px;
     min-width: 300px;
-    background-color: #66275e;
+    background-color: #F10080;
     border-radius: 10px;
 }
 
