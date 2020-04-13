@@ -33,6 +33,13 @@ body{
     height: 300px;
 }
 
+.inner_heading{
+    width: 90%;
+    height: 100px;
+    display:block;
+
+}
+
 .heading h1{
     padding-bottom: 0px;
     margin: 0cm;
