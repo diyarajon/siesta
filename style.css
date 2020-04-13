@@ -17,7 +17,7 @@ body{
     line-height: 1.5;
     padding:0;
     margin: 0;
-    background: #8B0D88;
+    background: #edf7fa;
     vertical-align: center;
 }
 
@@ -26,8 +26,8 @@ body{
 .heading{
     padding:0;
     margin: 0;
-    background-color: #034ea2;
-    color:#303;
+    background-color: #5f6caf;
+    color:#edf7fa;
     text-align: center;
     font-family: 'Muli', sans-serif;
     height: 300px;
@@ -54,7 +54,7 @@ body{
 
 .options a{
     text-decoration: none;
-    color: rgb(196, 39, 156);
+    color: #edf7fa;
     font-size: 2.5em;
 }
 
@@ -69,12 +69,12 @@ a{
     text-align: center;
     margin: 5px;
     min-width: 300px;
-    background-color: #F10080;
+    background-color: #ff8364;
     border-radius: 10px;
 }
 
 .box:hover{
-    background-color: #85baff;
+    background-color: #ffb677;
     box-shadow: 10px;
 }
 
